@@ -15,6 +15,14 @@ Foundational concepts of Go.
 - [Conditionals](./01-basics/conditionals)
 - [Loops](./01-basics/loops)
 
+### [02-Functions](./02-functions/)
+
+Deep dive into functions in Go.
+
+- [Functions](./02-functions/functions)
+- [Multiple Returns](./02-functions/multiple-returns)
+- [Defer, Panic, Recover](./02-functions/defer-panic-recover)
+
 ## Getting Started
 
 1.  **Clone the repository:**
